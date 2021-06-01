@@ -1,0 +1,6 @@
+button:hover + span::after{
+content: "click";
+}
+
+
+@media (max-width: 900px) {}
